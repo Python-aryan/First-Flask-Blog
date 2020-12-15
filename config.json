@@ -1,0 +1,19 @@
+{
+    "params": {
+        "local_server": "True",
+        "local_uri": "mysql://root:@localhost/aryan industries",
+        "prod_uri": "mysql://root:@localhost/aryan industries",
+        "fb_url": "https://facebook.com/aryan industries",
+        "tw_url": "https://twitter.com/aryan industries",
+        "gh_url": "https://github.com/aryan industries",
+        "gmail-user": "yourgmail@gmail.com,
+        "gmail-password": "yourpassword",
+        "about_text": "Hi I Am Aryan Sonone. I Love Python Programing Language. I am learning this from CodeWithHarry. And I am a good boy. ",
+        "no_of_posts":2,
+        "login_image":"login.svg",
+        "admin_user":"Aryan",
+        "admin_password": "Apple001",
+        "upload_location": "E:\\Python\\VS Code\\Flask Files\\static"
+
+    }
+}
